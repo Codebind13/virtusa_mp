@@ -12,7 +12,7 @@ Student Tasks:
 4.	Transaction History: Store the last 5 successful transaction amounts in an ArrayList and provide a printMiniStatement() method.
 Deliverable: A console-based Java application where a user can Deposit, Withdraw, and View History with full error handling.
 
-#python project
+# python project
 Problem Statement: Smart Expense Tracker with Insights
 Many individuals struggle to track daily expenses and understand spending patterns. Build a Python application that allows users to log, categorize, and analyze their expenses.
 Objectives
