@@ -28,7 +28,7 @@ Key Features
 Expected Outcome
 A tool that helps users understand where their money goes and suggests areas to reduce spending.
 
-sql project
+# sql project
 Problem Statement: Online Retail Sales Analysis Database
 Retail businesses generate huge sales data but lack structured insights. Design a database and write SQL queries to analyze sales performance.
 Objectives
