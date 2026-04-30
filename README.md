@@ -10,7 +10,7 @@ Student Tasks:
 ○	If the amount is negative, throw an IllegalArgumentException.
 ○	If the amount > balance, throw your custom InSufficientFundsException.
 4.	Transaction History: Store the last 5 successful transaction amounts in an ArrayList and provide a printMiniStatement() method.
-Deliverable: A console-based Java application where a user can Deposit, Withdraw, and View History with full error handling.
+Deliverable: A Java application where a user can Deposit, Withdraw, and View History with full error handling.
 
 # python project
 Problem Statement: Smart Expense Tracker with Insights
