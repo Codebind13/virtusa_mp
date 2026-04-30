@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        Account userAccount = new Account("prajuth", 500.0);
+        Account userAccount = new Account("prajuthh", 500.0);
 
         System.out.println("Welcome to FinSafe Digital Wallet");
 
